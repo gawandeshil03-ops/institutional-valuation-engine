@@ -298,13 +298,7 @@ Valuation tables vary WACC and terminal-growth assumptions to show how changes i
 - Add structured logging and error reporting
 - Package the application as a command-line tool
 
-## Attribution
 
-- **Portfolio repository:** [gawandeshil03-ops/institutional-valuation-engine](https://github.com/gawandeshil03-ops/institutional-valuation-engine)
-- **Original reference repository:** [Zertax7/valuation-engine](https://github.com/Zertax7/valuation-engine)
-- **Original README author credit:** Raphael
-
-Retain applicable copyright, attribution, and license notices when reusing or redistributing referenced material.
 
 ## Disclaimer
 
