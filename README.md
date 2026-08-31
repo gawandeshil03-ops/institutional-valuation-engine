@@ -122,4 +122,4 @@ Sensitivity Analysis: Automatically generates data tables varying WACC and Termi
 This tool is for educational purposes only. It does not constitute financial advice. Valuation outputs depend entirely on the quality of the assumptions provided by the user.
 
 ## 👤 Author
-Raphael Master in Management Student @ Skema Business School Aspiring Corporate Finance / Investment Banking Professional
+Shil Gawande 
