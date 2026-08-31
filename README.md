@@ -78,7 +78,7 @@ Valuation Engine/
     ├── plotting.py          # Football Field Charting
     ├── sanity_check.py      # Logic Validation
     └── excel_export.py      # XlsxWriter Formatting Engine
-
+---
 
 ## 💻 Usage
 
@@ -112,14 +112,17 @@ AMZN_Valuation.xlsx: A fully formatted Excel model ready for analysis.
 
 AMZN_Valuation.png: A valuation summary chart.
 
+---
+
 ## 📊 Methodology
 
 WACC: Calculated using CAPM (Capital Asset Pricing Model). Beta is dynamically fetched via yfinance or can be manually overridden in the assumptions.
 Discounting: Uses exact day-count logic for the Stub Period (Year 1) and standard mid-year convention for subsequent years ($t-0.5$).
 Sensitivity Analysis: Automatically generates data tables varying WACC and Terminal Growth Rates to stress-test the valuation.
-
+---
 ## ⚠️ Disclaimer
 This tool is for educational purposes only. It does not constitute financial advice. Valuation outputs depend entirely on the quality of the assumptions provided by the user.
+---
 
 ## 👤 Author
 Shil Gawande 
