@@ -1,0 +1,7 @@
+{
+    "ticker": "AMZN",
+    "excel_path": "/Users/Raphael/Desktop/Valuation Engine/inputs/AMZN_financials.xlsx",
+    "peers_path": "/Users/Raphael/Desktop/Valuation Engine/inputs/AMZN_peers.xlsx",
+    "output_file": "valuation_output.xlsx",
+    "valuation_date": "today"
+}

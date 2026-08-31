@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Mac
+.DS_Store
+
+# Excel Outputs (We don't want to track every test run)
+*.xlsx
+*.png
+
+# Keep the inputs folder structure, but maybe ignore specific client files if they were private
+# For now, allowing inputs is fine if they are templates.
